@@ -24,11 +24,16 @@ For future studies, I would definitely explore more data repositories as I belie
 
 Sources:
 Prevalence of diagnosed diabetes among adults aged 18 and over in the U.S. from 2000 to 2021
+CDC (USDSS). (April 21, 2023). Prevalence of diagnosed diabetes among adults aged 18 and over in the U.S. from 2000 to 2021 [Graph]. In Statista. Retrieved June 12, 2023, from https://www.statista.com/statistics/244629/diagnosed-diabetes-prevalence-among-adults-in-the-us/
 
 Number of U.S. Americans with diagnosed diabetes from 1980 to 2021*(in millions)
+CDC. (April 21, 2023). Number of U.S. Americans with diagnosed diabetes from 1980 to 2021* (in millions) [Graph]. In Statista. Retrieved June 12, 2023, from https://www.statista.com/statistics/240883/number-of-diabetes-diagnosis-in-the-united-states/
 
 U.S. Health Insurance Industry Analysis Report (includes net profits data)
+NAIC. (2022) U.S. Health Insurance Industry Analysis Report [Graph]. Retrieved June 30, 2023, from https://content.naic.org/sites/default/files/2021-Annual-Health-Insurance-Industry-Analysis-Report.pdf.
+
 
 An additional piece of data I found interesting regarding this topic:
 Insulin human out-of-pocket cost in the U.S. from 2004 to 2020*(in U.S. dollars)
+ClinCalc. (September 20, 2022). Insulin human out-of-pocket cost in the U.S. from 2004 to 2020* (in U.S. dollars) [Graph]. In Statista. Retrieved June 25, 2023, from https://www.statista.com/statistics/825337/insulin-human-out-of-pocket-cost-us/
 
